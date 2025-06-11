@@ -8,8 +8,6 @@ function Layout() {
     return (
         <Router>
             <Header/>
-            
-            
             <Routers/>
             <Footer/>
         </Router>
