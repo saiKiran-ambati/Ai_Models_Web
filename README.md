@@ -1,12 +1,16 @@
-# React + Vite
+AI Models Web
+A web application that showcases various AI models using a sleek and responsive UI. Built with React, Vite, and deployed via Vercel, this project provides a user-friendly interface to explore and interact with AI/ML models.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🌐 Live Demo
+🔗 ai-models-web.vercel.app
 
-Currently, two official plugins are available:
+🚀 Features
+⚛️ Built with React and Vite for blazing-fast performance
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+📦 Modular components for each AI model
 
-## Expanding the ESLint configuration
+🎨 Clean UI with responsive design
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🔁 Hot Module Replacement (HMR) during development
+
+🌐 Deployed on Vercel for instant updates
