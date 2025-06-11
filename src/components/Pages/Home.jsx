@@ -53,7 +53,7 @@ const aiModels = [
 const types = ["all", "image", "text", "code", "video", "audio", "multimodal"];
 
 
-const HomePage = () => {
+const HomePage = () => {  
   const [search, setSearch] = useState("");
   const [selectedType, setSelectedType] = useState("all");
   const [darkMode, setDarkMode] = useState(false);
